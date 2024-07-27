@@ -1,0 +1,1 @@
+Frontendmentor Junior Challenge Solutions
